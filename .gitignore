@@ -345,4 +345,10 @@ $RECYCLE.BIN/
 # Windows shortcuts
 *.lnk
 
+MNIST/
+data/
+lightning_logs/
+saved_models/
+start_tensorboard.sh
+
 # End of https://www.toptal.com/developers/gitignore/api/windows,linux,macos,visualstudiocode,pycharm,jupyternotebooks,python
